@@ -7,7 +7,7 @@
   },
   {
     "remote":"github",
-    "repository": "cosmedd/android_kernel_zuk_msm8996",
+    "repository": "ArrowOS-Devices/android_kernel_zuk_msm8996",
     "target_path": "kernel/zuk/msm8996",
     "revision":"twrp"
   }
